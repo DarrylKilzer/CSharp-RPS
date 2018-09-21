@@ -1,0 +1,11 @@
+C:\Users\darry\repos\rps\bin\Debug\netcoreapp2.1\rps.deps.json
+C:\Users\darry\repos\rps\bin\Debug\netcoreapp2.1\rps.runtimeconfig.json
+C:\Users\darry\repos\rps\bin\Debug\netcoreapp2.1\rps.runtimeconfig.dev.json
+C:\Users\darry\repos\rps\bin\Debug\netcoreapp2.1\rps.dll
+C:\Users\darry\repos\rps\bin\Debug\netcoreapp2.1\rps.pdb
+C:\Users\darry\repos\rps\obj\Debug\netcoreapp2.1\rps.csprojAssemblyReference.cache
+C:\Users\darry\repos\rps\obj\Debug\netcoreapp2.1\rps.csproj.CoreCompileInputs.cache
+C:\Users\darry\repos\rps\obj\Debug\netcoreapp2.1\rps.AssemblyInfoInputs.cache
+C:\Users\darry\repos\rps\obj\Debug\netcoreapp2.1\rps.AssemblyInfo.cs
+C:\Users\darry\repos\rps\obj\Debug\netcoreapp2.1\rps.dll
+C:\Users\darry\repos\rps\obj\Debug\netcoreapp2.1\rps.pdb
